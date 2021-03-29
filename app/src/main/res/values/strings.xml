@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodigosPostais</string>
+    <string name="download_ficheiro">Fazendo Download do ficheiro...</string>
+    <string name="criando_bd">Criando e populando base de dados...</string>
+</resources>
