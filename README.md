@@ -7,4 +7,4 @@ A recolha dos códigos postais apenas é feita no primeiro arranque da aplicaç�
 Constrói uma base de dados em sqlLite e mostra uma lista com os códigos postais, sendo esta lista pesquisável.
 
 
-[Video da Aplicação](https://youtu.be/BEOhQSzrUj0)
+[Video exemplo da aplicação](https://youtu.be/BEOhQSzrUj0)
